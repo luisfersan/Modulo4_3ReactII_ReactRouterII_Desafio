@@ -1,6 +1,8 @@
-# React + Vite
+# React Router II
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este desafío pondré a prueba las nuevas habilidades con React Router para
+consolidar el redireccionamiento de rutas, la obtención de parámetros en una ruta y la
+asignación de una clase activa a la ruta que se esté visitando en una SPA.
 
 Currently, two official plugins are available:
 
